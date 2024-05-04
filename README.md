@@ -8,6 +8,10 @@ Covid-19 Statics SCRAPER
 ### **Overview**
 This script scrapes COVID-19 data from [Worldometer's Coronavirus page](https://www.worldometers.info/coronavirus/) and saves it into a CSV file named "covid19_now_2024_23_03.csv". It then performs data analysis and cleaning using Python libraries such as BeautifulSoup, requests, and pandas. The cleaned data is stored in a pandas DataFrame with updated column names for better readability and understanding.
 
+![](code.png)
+
+![](csv_data.png)
+
 ### **Setup**
 Ensure you have Python installed along with the necessary libraries like `BeautifulSoup`, `requests`, `pandas`, and `csv`.
 
